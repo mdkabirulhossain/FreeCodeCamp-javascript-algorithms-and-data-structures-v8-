@@ -34,6 +34,10 @@
 // let rows = ["Naomi", "Quincy", "CamperChan"];
 // console.log(rows[0]);
 
-//step 21
+//step 24
 
 
+let cities = ["London", "New York", "Mumbai"];
+console.log(cities);
+cities[cities.length-1] = "Mexico City";
+console.log(cities);
