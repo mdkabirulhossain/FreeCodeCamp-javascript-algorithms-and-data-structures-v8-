@@ -51,13 +51,13 @@
 
 //step 31
 
-const character = "Hello";
-const count = 8;
-const rows = [];
+// const character = "Hello";
+// const count = 8;
+// const rows = [];
 
 
 //step 32
 
-// let character = "Hello";
-// let count = 8;
-// let rows = [];
+const character = "#";
+const count = 8;
+const rows = [];
