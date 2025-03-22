@@ -44,6 +44,20 @@
 
 //step 30
 
-let character = "Hello";
-let count = 8;
-let rows = [];
+// let character = "Hello";
+// let count = 8;
+// let rows = [];
+
+
+//step 31
+
+const character = "Hello";
+const count = 8;
+const rows = [];
+
+
+//step 32
+
+// let character = "Hello";
+// let count = 8;
+// let rows = [];
