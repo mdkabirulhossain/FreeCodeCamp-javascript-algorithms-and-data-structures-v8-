@@ -58,6 +58,11 @@
 
 //step 32
 
-const character = "#";
-const count = 8;
-const rows = [];
+// const character = "#";
+// const count = 8;
+// const rows = [];
+
+//step 32 to 41
+for(const row of rows){
+  
+}
